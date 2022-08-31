@@ -14,4 +14,4 @@ Near Protocol та подій по типу хакатону.
 
 Ви можете знайти нас на наступних ресурсах:
 
-[Чат](https://t.me/nearprotocolua) | [Канал](https://t.me/nearprotocoluachannel) | [Twitter](https://twitter.com/nearuaguild) | [Medium](https://medium.com/@nearuaguild) | [Reddit](https://www.reddit.com/r/nearprotocol_ua/)
+[Чат](https://t.me/nearprotocolua) | [Канал](https://t.me/nearprotocoluachannel) | [Twitter](https://twitter.com/nearuaguild) | [Medium](https://medium.com/@nearuaguild) | [Reddit](https://www.reddit.com/r/nearprotocol_ua/) | [YouTube](https://www.youtube.com/channel/UC8K4Ob3SKfsoD8e7mwIyCEg)
